@@ -1,19 +1,14 @@
 ---
-title: Colophon
+title: About
 permalink: /about/
 layout: page
 excerpt: Ben Tyler Elliott is a data writer, Operations Director, woodworker, Photoshop scoundrel, and burrito enthusiast. Not necessarily in that order. He lives in the Bay Area.
 comments: false
+image: assets/img/ben.jpg
 ---
 
-Data-driven words about not-depressing things, mostly.
+![Ben](assets/img/ben.jpg)
 
-Shameless dilettante.
+Ben is a data writer, Operations Director, woodworker, Photoshop scoundrel, and burrito enthusiast. Not necessarily in that order.
 
-Indiscriminate connoisseur of pub trivia.
-
-Burrito enthusiast.
-
-ben at obverter dot com
-
-github.com/obverter
+He lives in the Bay Area with his dog and his dog's family.
