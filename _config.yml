@@ -12,7 +12,7 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Ben Elliott # author name
   bio: >- # tell to the world
-    🎉 Data-driven words about not-depressing things, mostly! 🎉 Shameless dilettante. Indiscriminate connoisseur of pub trivia. Burrito enthusiast.
+    Data-driven words about not-depressing things.
   username: obverter # general username
   github: obverter # github username
   twitter: obverter # twitter username
