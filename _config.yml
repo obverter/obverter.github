@@ -4,7 +4,7 @@ description: >- # site description
   🎉 Data-driven words about not-depressing things, mostly! 🎉 Shameless dilettante. Indiscriminate connoisseur of pub trivia. Burrito enthusiast.
 lang: en-US # default lang
 timezone: America/Los_Angeles # set your timezone
-image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
+image: assets/img/ben.jpeg # This image used for Open Graph more info https://ogp.me/
 repo: https://github.com/obverter/obverter.github# site repo [optional]
 mode: dark # default theme "dark" | "light"
 
@@ -12,7 +12,7 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Ben Elliott # author name
   bio: >- # tell to the world
-    Data-driven words about not-depressing things.
+    Ben writes data-driven words about not-depressing things, mostly.
   username: obverter # general username
   github: obverter # github username
   twitter: obverter # twitter username
