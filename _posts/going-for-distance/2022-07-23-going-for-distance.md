@@ -1,8 +1,8 @@
 ---
 title: Max Scherzer Could Have Thrown a Baseball Across the Country
 date: 2022-07-25 11:58:47 +07:00
-tags: [python/pandas, baseball]
-description: If Max Scherzer threw every pitch he's ever thrown at 45° up from horizontal on a flat, featureless, windless plane, in a uniform atmosphere pegged to STP (15C, 101.325kPa = 1225 kg/m<sup>3</sup>), he could've thrown a ball from Cleveland to Seattle. And then to San Francisco.
+tags: [Python/Pandas, Baseball]
+description: If Max Scherzer threw every pitch he's ever thrown at 45° up from horizontal, he could've thrown a ball from Cleveland to Seattle. And then to San Francisco.
 image: "_posts/going-for-distance/maxinator-1280.png"
 ---
 

@@ -28,7 +28,7 @@ author:
 url: "https://obverter.github.io" #
 baseurl:
 permalink: /:title/
-google_analytics: # leave it blank if not wish
+google_analytics: G-PP3HLPT4NW # leave it blank if not wish
 fb_appid:
 
 # Collection setting
@@ -62,7 +62,7 @@ jekyll_compose:
     description:
 
 # Homepage limit posts
-number_of_posts: 5
+number_of_posts: 10
 
 # Build settings
 # theme: klise
