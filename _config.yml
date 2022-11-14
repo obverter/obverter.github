@@ -6,11 +6,11 @@ lang: en-US # default lang
 timezone: America/Los_Angeles # set your timezone
 image: assets/img/ben.jpeg # This image used for Open Graph more info https://ogp.me/
 repo: https://github.com/obverter/obverter.github# site repo [optional]
-mode: dark # default theme "dark" | "light"
+mode: light # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: Obverter is Ben Elliott # author name
+  name: Ben Elliott # author name
   bio: >- # tell to the world
     Data-driven words about not-depressing things.
 
@@ -26,7 +26,7 @@ author:
 
 # URL settings
 url: "https://obverter.github.io" #
-baseurl:
+baseurl: ""
 permalink: /:title/
 google_analytics: G-PP3HLPT4NW # leave it blank if not wish
 fb_appid:
