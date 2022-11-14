@@ -2,7 +2,7 @@
 title: Topics
 permalink: /topics/
 layout: page
-excerpt: Sorted article by tags.
+excerpt: Articles sorted by topic.
 ---
 
 <div class="archive-tags">
