@@ -3,7 +3,6 @@ title: Max Scherzer Could Have Thrown a Baseball Across the Country
 date: 2022-07-25 11:58:47 +07:00
 tags: [Baseball, Python/Pandas, DataWrapper]
 description: If Max Scherzer threw every pitch he's ever thrown at 45° up from horizontal, he could've thrown a ball from Cleveland to Seattle. And then to San Francisco.
-image: "_posts/going-for-distance/maxinator-1280.png"
 ---
 
 <!-- ---
@@ -15,6 +14,7 @@ featured_image: ../assets/images/posts/2022/going_for_distance/maxinator-thumb.p
 featured: true
 hidden: true
 --- -->
+![Maxinator](maxinator-1280.png)
 
 I did the math. All the math.
 

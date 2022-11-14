@@ -2,13 +2,7 @@
 layout: post
 title: "Complete Games Are Done"
 tags: [Baseball, Python/Pandas, DataWrapper]
-featured_image_thumbnail: ../assets/images/posts/2022/complete_games/complete-games_small.jpg
-featured_image: ../assets/images/posts/2022/complete_games/complete-games.png
-featured: false
-hidden: false
 ---
-
-
 
 
 A baseball pitcher's most basic goal—to make a batter miss three hittable pitches—has never changed. But how a modern baseball team uses their pitchers is remarkably different from how the earliest teams used theirs.

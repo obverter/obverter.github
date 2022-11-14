@@ -1,13 +1,27 @@
 ---
-title: Projects
-permalink: /projects/
+title: Topics
+permalink: /topics/
 layout: page
-excerpt: Ben Tyler Elliott is a data writer, Operations Director, woodworker, Photoshop scoundrel, and burrito enthusiast. Not necessarily in that order. He lives in the Bay Area.
-comments: false
-image: "assets/img/ben.jpeg"
+excerpt: Sorted article by tags.
 ---
-![Alt text](/assets/img/ben.png)
 
-Ben is a writer, a small-biz Operations whiz, a Photoshop scoundrel, a burrito enthusiast, and a woodworker. Not necessarily in that order.
+<div class="archive-tags">
+  <a class="tag-item" href="#">all</a>
+  {%- for tag in site.tags -%}
+    {% capture name %}{{ tag | first }}{% endcapture %}
+    <a class="tag-item" href="#{{name}}">{{ name }}</a>
+  {%- endfor -%}
+</div>
 
-He lives in the Bay Area with his dog and his dog's family.
+{%- for tag in site.tags -%}
+  {%- capture name -%}{{ tag | first }}{%- endcapture -%}
+  <h2 id="{{ name }}">{{ name | upcase }}</h2>
+  {%- for post in site.tags[name] -%}
+    <article class="post-item" id="results-container">
+      <span class="post-item-date">{{ post.date | date: "%b %d, %Y" }}</span>
+      <h3 class="post-item-title">
+        <a href="{{ post.url }}">{{ post.title | escape }}</a>
+      </h3>
+    </article>
+  {%- endfor -%}
+{%- endfor -%}
