@@ -10,9 +10,13 @@ mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: Ben Elliott # author name
+  name: Obverter is Ben Elliott # author name
   bio: >- # tell to the world
-    Ben writes data-driven words about not-depressing things, mostly.
+    Data-driven words about not-depressing things.
+
+    Content about misadventures in creating content.
+
+    Tribulations and triumphs about making physical stuff.
   username: obverter # general username
   github: obverter # github username
   twitter: obverter # twitter username
