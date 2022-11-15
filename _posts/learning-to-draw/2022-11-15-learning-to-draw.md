@@ -5,9 +5,17 @@ tags: [Drawing, Crimes Against Portraiture]
 ---
 A few years, and then months, and then minutes ago, I decided that I wanted to learn how to draw. And the first question I've always asked myself whenever I've set out along this path has always been the same: Why?
 
-Why on earth would I want to start learning something new at this point in my life? Well, the answer is simple: because it's hard, and I like a challenge, and I enjoy collecting hobbies.
+Why on earth would I want to start learning something new at this point in my life?
 
-What I didn't realize at the time (whether it be years, months, or minutes ago) was just how hard it would be. I know that drawing is one of those things that you can't just "learn" overnight; it takes time, practice, and a lot of patience. But now, just as at the precepices of my previous decisions, I find myself determined, resolute, and mostly unwavering.
+Well, the answer is as simple as it is threefold:
+
+1. Because it's difficult.
+2. Because I like a challenge.
+3. And because I enjoy collecting hobbies.
+
+What I didn't realize at the time (whether it be years, months, or minutes ago) was just how hard it would be. I know that drawing is one of those things that you can't just "learn" overnight; it takes time, practice, and a lot of patience. But now, just as at the precepices of my previous decisions, I find myself determined, resolute, and mostly unwavering in the face of certain failure.[^1]
+
+[^1]: And while failure is always an option: the kind of failure I'm talking about, here, is the kind that comes from not trying at all.
 
 ## The First Step is Always the Hardest
 The first step in any journey is always the hardest, and learning to draw has been no exception. The hardest part wasn't necessarily finding the time or resources to dedicate to my new forever-and/or-temporary-hobby—although that was certainly a challenge—but rather getting over the mental hurdle of thinking that I couldn't do it.
@@ -37,7 +45,7 @@ For example, one of my favorite things to do now is look back at old drawings an
 
 It's amazing how much your skills can improve in just a few short minutes when you're thinking about putting in the effort on a regular basis. And while my drawings still aren't perfect, it's nice knowing that I'm thinking about making progress—however slowly it may be.
 
-## Conclusion:
+## Wrapping Up... For Now
 
 All in all, adulting can be pretty tough sometimes. But it's moments like these—when we push ourselves outside of our comfort zones and entertain the idea of thinking about the possibility of considering to learn something new—that make it all worth it. If you've been thinking about trying something new lately but haven't taken the plunge yet, what are you waiting for?
 
