@@ -26,7 +26,7 @@ author:
 
 # URL settings
 url: "https://obverter.github.io" #
-baseurl: "obverter.github.io/"
+baseurl: ""
 permalink: /:title/
 google_analytics: G-PP3HLPT4NW # leave it blank if not wish
 fb_appid:
