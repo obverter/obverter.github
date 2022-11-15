@@ -18,7 +18,7 @@ I'm not going to lie, there were times when I wanted to give up. In fact: I want
 
 And that I can't already draw.
 
-I'll be the first to admit that there have been days, decades, and entireties  of my life when my drawings have came out looking more (or exactly) like stick figures than anything else. And of course there have been alwayses where I've thought for sure that this whole idea was a terrible mistake.
+I'll be the first to admit that there have been days, decades, and entireties of my life when my drawings have came out looking more (or exactly) like stick figures than anything else. And of course there have been alwayses where I've thought for sure that this whole idea was a terrible mistake.
 
 But then I'd remind myself that learning is supposed to be hard, and that progress is seldom linear. And so I'd pick up my pencil and start drawing again. Or find something Very Important to do instead.
 
@@ -34,12 +34,14 @@ For example, one of my favorite things to do now is look back at old drawings an
 
 ![Crimes Against Portraiture, Fig. 2](/_posts/learning-to-draw/portrait-1.png)
 
-It's amazing how much your skills can improve in just a few short weeks when you're thinking about putting in the effort on a regular basis. And while my drawings still aren't perfect, it's nice knowing that I'm thinking about making progress—however slowly it may be.
+It's amazing how much your skills can improve in just a few short minutes when you're thinking about putting in the effort on a regular basis. And while my drawings still aren't perfect, it's nice knowing that I'm thinking about making progress—however slowly it may be.
 
 ## Conclusion:
 
-All in all, adulting can be pretty tough sometimes. But it's moments like these—when we push ourselves outside of our comfort zones and thinkin about the possibility of considering to learn something new—that make it all worth it. If you've been thinking about trying something new lately but haven't taken the plunge yet, what are you waiting for?
+All in all, adulting can be pretty tough sometimes. But it's moments like these—when we push ourselves outside of our comfort zones and entertain the idea of thinking about the possibility of considering to learn something new—that make it all worth it. If you've been thinking about trying something new lately but haven't taken the plunge yet, what are you waiting for?
 
 No, really. I'm asking. I'm genuinely interested.
 
-I'm genuinely interested in what it is that you're waiting for. Just in case it's better idea.
+I'm genuinely interested in what it is that you're waiting for.
+
+Just in case it's better idea.
