@@ -1,7 +1,7 @@
 # Site settings
 title: Ben Elliott # site title
 description: >- # site description
-  🎉 Data-driven words about not-depressing things, mostly! 🎉 Shameless dilettante. Indiscriminate connoisseur of pub trivia. Burrito enthusiast.
+  Data-driven words about not-depressing things, mostly! Shameless dilettante. Indiscriminate connoisseur of pub trivia. Burrito enthusiast.
 lang: en-US # default lang
 timezone: America/Los_Angeles # set your timezone
 image: assets/img/ben.jpeg # This image used for Open Graph more info https://ogp.me/

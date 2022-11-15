@@ -17,7 +17,7 @@ And even as someone who's spent about thirty years studying the game — that pe
 
 Quick example. Compare these bodies:
 
-![bmi_comparison](../assets/images/posts/2022/heavy_hitters/bmi_comparison.png)
+<!-- ![bmi_comparison](../assets/images/posts/2022/heavy_hitters/bmi_comparison.png) -->
 
 Everyone would likely agree that at least **one** of these people is in stupendous shape. But if you said I'd win twenty bucks if I could correctly identify which (if any) of these folks were professional athletes — I *might not* pick the guys on sides.
 
@@ -39,7 +39,7 @@ Height and weight are among the metrics that we know for over 99% of all ballpla
 
 But in a sport where plenty of the players in its pantheon look sort of like this:
 
-![Babe Ruth](../assets/images/posts/2022/heavy_hitters/babe_ruth.jpeg)
+<!-- ![Babe Ruth](../assets/images/posts/2022/heavy_hitters/babe_ruth.jpeg) -->
 
 An itchy question begins to instantiate itself about one inch behind my forehead.
 
@@ -51,7 +51,9 @@ Before we go further, let's talk about how body mass index (BMI) and why it's te
 
 Here's how you'd calculate BMI Pandythonically:
 
-<pre><code class="language-python">body['BMI'] == body['weight_in_KG'] / body['height_in_meters'] ** 2</code></pre>
+{% highlight python %}
+body['BMI'] == body['weight_in_KG'] / body['height_in_meters'] ** 2
+{% endhighlight %}
 
 Ostensibly, BMI is a mass-to-height ratio that's useful when broadly classifying a person as underweight, normal weight, overweight, or obese, and for nutritionists, trainers, and doctors, BMI can be one locus of many when assembling an overall snapshot of a person's health.
 
@@ -65,7 +67,7 @@ Because BMI by itself is ignorant of body composition, it's not a great baromete
 
 E.g.g.: Here's a picture of Arnold Schwarzenegger in 1974. At the time of this photo, his BMI was around 32.
 
-![Arnold Schwarzenegger is obese.](../assets/images/posts/2022/heavy_hitters/Arnold_Schwarzenegger_1974_32.1.jpeg)
+<!-- ![Arnold Schwarzenegger is obese.](../assets/images/posts/2022/heavy_hitters/Arnold_Schwarzenegger_1974_32.1.jpeg) -->
 
 And just so we're clear: any BMI over 30 is classified as some flavor of obese.
 
@@ -167,7 +169,9 @@ When you start any sort of comparative analysis between baseball players, the go
 
 And some of these are not simple:
 
+\begin{equation}
 $$SIERA = 6.145 - 16.896 \times \frac{SO}{PA} + 11.434 \times \frac{BB}{PA} - 1.858 \times \frac{GB-FB-PU}{PA} + \\7.653 \times (\frac{SO}{PA})^2 \pm 6.664 \times (\frac{GB-FB-PU}{PA})^2 + 10.130 \times \frac{SO}{PA} \times \\\frac{GB - FB - PU}{PA} - 5.1595 \times \frac{BB}{PA} \times \frac{GB-FB-PU}{PA}$$
+\end{equation}
 
 There are, however, a few specific **shiny, golden metrics** that cut through much of the statistical noise and simply quantify a player's value relative to their contemporaries.
 
@@ -203,7 +207,7 @@ Ozzie Smith is the greatest defensive shortstop that professional baseball has e
 
 
 
-![Ozzie Smith is a wizard.](../assets/images/posts/2022/heavy_hitters/ozzie_smith.gif)
+<!-- ![Ozzie Smith is a wizard.](../assets/images/posts/2022/heavy_hitters/ozzie_smith.gif) -->
 
 
 
