@@ -2,6 +2,7 @@
 layout: post
 title: "Watching Baseball Is the Most Type 2 Fun You Can Have"
 tags: [Baseball]
+published: true
 ---
 
 I find baseball compelling in part because it is an endless test of patience and endurance. No other sport brings so vividly to life the act of indeterminate waiting.
