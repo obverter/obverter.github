@@ -2,7 +2,10 @@
 layout: post
 title: "Watching Baseball Is the Most Type 2 Fun You Can Have"
 tags: [Baseball]
+date: 2022-08-04 12:00:00 -0800
 published: true
+description: Baseball is slow. It's repetitive. And the worse your team is, the longer most losses tend to take. So why do I watch? Because I enjoy Type 2 fun.
+image:
 ---
 
 I find baseball compelling in part because it is an endless test of patience and endurance. No other sport brings so vividly to life the act of indeterminate waiting.
